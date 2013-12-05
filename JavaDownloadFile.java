@@ -22,22 +22,7 @@ public class JavaDownloadFile {
 
             downloader.download("http://download1644.mediafire.com/vdvscpi3ycyg/a7k3ri7nbd3gamy/EJ1.6.4B.zip", "C:\\Users" + "/" + System.getProperty("user.name") + "/" + "AppData/Roaming/.minecraft/mods");
 
-            //downloader.download("http://fbapp.itcuties.com/middle/_DSC4796.jpg", "C:\\test");
-
-            //downloader.download("http://fbapp.itcuties.com/middle/_DSC4776.jpg", "C:\\test");
-
-            //downloader.download("http://fbapp.itcuties.com/middle/_DSC4505.jpg", "C:\\test");
-
-            //downloader.download("http://fbapp.itcuties.com/middle/_DSC4448.jpg", "C:\\test");
-
-            //downloader.download("http://fbapp.itcuties.com/middle/_DSC4590.jpg", "C:\\test");
-
-            //downloader.download("http://fbapp.itcuties.com/middle/_DSC4514.jpg", "C:\\test");
-
-            //downloader.download("http://fbapp.itcuties.com/middle/_DSC4698.jpg", "C:\\test");
-
-            //downloader.download("http://fbapp.itcuties.com/middle/_DSC4434.jpg", "C:\\test");
-
+            
              
 
         } catch (IOException e) {
